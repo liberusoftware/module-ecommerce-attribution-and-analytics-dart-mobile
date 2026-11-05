@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-attribution-and-analytics-dart-mobile",
+  "capabilityKey": "planned:ecommerce:attribution-and-analytics",
+  "presentation": "dart-mobile",
+  "package": "module_ecommerce_attribution_and_analytics_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/ecommerce/nextjs/attribution-and-analytics.md",
+  "presentationPlan": "projects/ecommerce/features/attribution-and-analytics.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
